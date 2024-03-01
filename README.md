@@ -1,1 +1,1 @@
-This homepage is made for training basic html skills.
+This homepage is made for training basic html and most likely css skills.
